@@ -1,0 +1,29 @@
+
+{
+    "NAME":"HabTech2",
+    "URL":"https://raw.githubusercontent.com/chris42/HabTech2/cleanup/GameData/HabTech2/Version/HabTech2.version",
+    "DOWNLOAD":"https://github.com/chris42/HabTech2/releases",
+    "VERSION":
+    {
+        "MAJOR":0,
+        "MINOR":2,
+        "PATCH":5,
+        "BUILD":0
+    },
+    "KSP_VERSION":
+    {
+        "MAJOR":1,
+        "MINOR":10,
+        "PATCH":1
+    },
+    "KSP_VERSION_MIN":{
+        "MAJOR":1,
+        "MINOR":8,
+        "PATCH":0
+    },
+    "KSP_VERSION_MAX":{
+        "MAJOR":1,
+        "MINOR":10,
+        "PATCH":99
+    }
+}
