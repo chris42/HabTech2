@@ -1,4 +1,4 @@
-HABTECH 2 0.2.5
+HABTECH 2 0.2.6
 A mod for Kerbal Space Program 1.8.0+ by Benjee10.
 
 INSTALLATION
@@ -8,15 +8,19 @@ DEPENDENCIES
 This mod requires the following dependencies:
 - benjee10 Shared Assets (tested with v0.1)
 - ModuleManager (tested with v4.1.4)(https://github.com/sarbian/ModuleManager)
-- Kerbal Inventory System (tested with v1.26)(https://github.com/ihsoft/KIS)
 - Community Resource Pack (tested with v1.4.1.0)(https://github.com/BobPalmer/CommunityResourcePack)
 - B9 Part Switch (tested with v2.17.0)(https://github.com/blowfishpro/B9PartSwitch)
+Optional, but highly recommended
+- Kerbal Inventory System (tested with v1.26)(https://github.com/ihsoft/KIS) up to KSP v1.10
+
 Plays nice with reDIRECT, Shuttle Orbiter Construction Kit, Tantares, BlueDog Design Bureau, Cormorant Aeronology, SSPXR and Tundra Exploration.
 
 FUTURE PLANS
 Eventually I plan for every module of the US segment of the ISS (including the truss structure and externally mounted experiments) to be represented.
 
 CHANGELOG
+0.2.6 - PUBLIC RELEASE
+    - Added inventory setup for KSP v1.11. KIS will be used in versions < v1.11 if available
 0.2.5 - PUBLIC RELEASE
     - Cleanup
 0.2.4 - PUBLIC RELEASE

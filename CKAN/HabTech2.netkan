@@ -15,8 +15,7 @@
       { "name" : "Benjee10sharedAssets" },
       { "name" : "ModuleManager" },
       { "name" : "B9PartSwitch" },
-      { "name" : "CommunityResourcePack" },
-      { "name" : "KIS" }
+      { "name" : "CommunityResourcePack" }
   ],
   "suggests": [
       { "name" : "reDIRECT" },
