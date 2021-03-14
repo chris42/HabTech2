@@ -12,7 +12,7 @@
     "repository": "https://github.com/chris42/HabTech2"
   },
   "depends": [
-      { "name" : "Benjee10sharedAssets" },
+      { "name" : "Benjee10_sharedAssets" },
       { "name" : "ModuleManager" },
       { "name" : "B9PartSwitch" },
       { "name" : "CommunityResourcePack" }
